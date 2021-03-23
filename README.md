@@ -13,4 +13,5 @@ having more free time to pursue hobbies and side projects! Most of the work I do
 gets shared here, and I'm excited for what's ahead.
 
 If something I've built is useful to you, feel free to
-[buy me a coffee!](https://ko-fi.com/ksmithbaylor)
+[buy me a coffee](https://ko-fi.com/ksmithbaylor) or [send me some
+crypto](https://commerce.coinbase.com/checkout/1b1ddff5-7176-414c-b4e0-a9b6832ac9b0)!
