@@ -1,6 +1,6 @@
 # Hey there!
 
-I'm Kevin. I live in rural north Georgia with my wife and four kids
+I'm Kevin. I live in rural north Georgia with my wife and five kids
 and write software for a living. When I'm not spending time with my family, I
 like to build things. Sometimes that means a small tool that's useful to me, or
 a more ambitious product that can be more broadly useful to others. But no
